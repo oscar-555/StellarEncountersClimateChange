@@ -1,1 +1,1 @@
-# StellarEncountersClimateChange
+Almost all code adapted from Galaxia_wrap and Gaia data analysis by Jan Rybizki. The folder "Euclid_analysis_oscar", the notebook "oscar_create_catalog_galaxia" and all the copied notebooks include my contributions.  
